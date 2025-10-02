@@ -43,4 +43,3 @@
 - Use Capacitor CLI (`npx cap <command>`) for platform management and plugin usage.
 - Edit your PWA at the configured server URL.
 - Use Capacitor plugins for native features.
-# pwa-capacitor-remote

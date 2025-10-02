@@ -1,0 +1,13 @@
+{
+  "appId": "com.pwatester.app",
+  "appName": "PushApp",
+  "server": {
+    "url": "https://pwa-tester.netlify.app",
+    "cleartext": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": true
+    }
+  }
+}
